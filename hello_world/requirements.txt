@@ -1,0 +1,5 @@
+requests
+wikipedia
+boto3
+six
+botocore
